@@ -1,7 +1,9 @@
 Final Sales Pitch for Amazon
 
 Company Overview:
-Error: name 'create_agent' is not defined
+Error: 1 validation error for CustomPromptTemplate
+tools -> 0
+  Tool.__init__() missing 1 required positional argument: 'func' (type=type_error)
 
 Key Executives: Information not available.
 
