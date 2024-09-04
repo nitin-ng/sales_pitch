@@ -1,7 +1,7 @@
 Final Sales Pitch for Amazon
 
 Company Overview:
-Error: RetryError[<Future at 0x14fc58b10 state=finished raised KeyError>]
+Error: name 'create_agent' is not defined
 
 Key Executives: Information not available.
 
