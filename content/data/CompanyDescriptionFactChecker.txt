@@ -1,0 +1,5 @@
+I am CompanyDescriptionFactChecker. I will now fact-check the provided company description. Let's start with the first statement:
+
+"Microsoft was founded in 1975 by Bill Gates and Paul Allen, initially focusing on software development for personal computers. A significant milestone was securing a contract with IBM in 1980 to provide an operating system for their first personal computer."
+
+I will verify the accuracy of this statement. Let's begin the fact-checking process.
